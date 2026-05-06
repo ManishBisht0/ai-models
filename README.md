@@ -1,19 +1,6 @@
 # 🚀 GenAI Investor Intelligence & Content Generation System
 
-```{=html}
-<p align="center">
-```
-`<img src="https://img.shields.io/badge/LLM-Mistral%207B-blue?style=for-the-badge" />`{=html}
-`<img src="https://img.shields.io/badge/Framework-Transformers-orange?style=for-the-badge" />`{=html}
-`<img src="https://img.shields.io/badge/Database-Azure%20CosmosDB-green?style=for-the-badge" />`{=html}
-`<img src="https://img.shields.io/badge/Python-3.10+-yellow?style=for-the-badge" />`{=html}
-`<img src="https://img.shields.io/badge/Status-Production--Inspired-success?style=for-the-badge" />`{=html}
-```{=html}
-</p>
-```
-
 ------------------------------------------------------------------------
-
 ## 📌 Overview
 
 An end-to-end **Generative AI system** that transforms structured
